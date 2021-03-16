@@ -3,7 +3,7 @@ var dress = "little dress";
 function myDress() {
   // Only change code below this line
 
- var dress = "ball gown"
+  dress = "ball gown"
 
  // Only change code above this line
   return dress;
